@@ -7,7 +7,7 @@ ls
 cd
 
 # 3 - What is the command for going back a folder (to a parent directory)?
-cd ../
+cd ../ or cd ..
 
 # 4 - What is a quick way to create a new folder?
 mkdir folder-name
@@ -22,7 +22,7 @@ touch file-name.filetype
 2.23.0
 
 # 8 - Why would you run the command 'git status'?
-To see if any changes have been made to files being tracked (changes to be committed)
+To see if any changes have been made to files being tracked (changes yet to be committed)
 
 # 9 - What does the command 'git add .' do?
 stages all files in current directory to be committed.
