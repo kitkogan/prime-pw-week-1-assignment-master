@@ -10,6 +10,9 @@ body {
 h1 {
   background-color: #FFAADD;
   text-align: center;
+  color: purple;
+  font-family: sans-serif;
+  border-style: dotted;
 }
 
 footer {
@@ -35,4 +38,12 @@ img {
 ul {
   font-family: Oswald, arial;
   background-color: #F6A6FF;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+p {
+  color: purple;
 }
